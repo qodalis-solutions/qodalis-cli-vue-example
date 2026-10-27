@@ -9,12 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@qodalis/cli": "^2.0.0-rc.3",
-    "@qodalis/cli-core": "^2.0.0-rc.3",
-    "@qodalis/cli-files": "^2.0.0-rc.3",
-    "@qodalis/cli-guid": "^2.0.0-rc.3",
-    "@qodalis/cli-users": "^2.0.0-rc.3",
-    "@qodalis/vue-cli": "^2.0.0-rc.3",
+    "@qodalis/cli": "^2.0.0",
+    "@qodalis/cli-core": "^2.0.0",
+    "@qodalis/cli-files": "^2.0.0",
+    "@qodalis/cli-guid": "^2.0.0",
+    "@qodalis/cli-users": "^2.0.0",
+    "@qodalis/vue-cli": "^2.0.0",
     "vue": "^3.5.0"
   },
   "devDependencies": {
